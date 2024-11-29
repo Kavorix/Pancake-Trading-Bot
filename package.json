@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CaoHuy26/pancakeswap-trading-bot.git"
+    "url": "git+https://github.com/Kavorix/Pancake-Trading-Bot"
   },
   "keywords": [
     "pancakeswap",
@@ -21,9 +21,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CaoHuy26/pancakeswap-trading-bot/issues"
+    "url": "https://github.com/Kavorix/Pancake-Trading-Bot"
   },
-  "homepage": "https://github.com/CaoHuy26/pancakeswap-trading-bot#readme",
+  "homepage": "https://github.com/Kavorix/Pancake-Trading-Bot",
   "dependencies": {
     "@types/web3": "^1.2.2",
     "abi-decoder": "^2.4.0",
